@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner wi
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chhavi7104&theme=radical)](https://streak-stats.demolab.com/?user=chhavi7104)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chhavi7104&theme=radical&cache=clear1)](https://streak-stats.demolab.com/?user=chhavi7104)
 
 
 ## 📂 Projects
