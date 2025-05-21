@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner wi
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
 ## 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chhavi7104&theme=radical)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
 ## 📂 Projects
 
 Check out my pinned repositories below or explore my repos for projects ranging from full-stack apps to experiments with AI and automation.
