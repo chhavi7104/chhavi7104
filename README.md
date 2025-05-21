@@ -17,8 +17,11 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner wi
 - **Tools & Platforms**: Git, Docker, AWS, GitHub Actions, Linux
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
-## 📈 GitHub Stats
+
+## 🔥 GitHub Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chhavi7104&theme=radical)](https://streak-stats.demolab.com/?user=chhavi7104)
+
 
 ## 📂 Projects
 
