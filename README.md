@@ -18,7 +18,10 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner wi
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
 ## 📈 GitHub Stats
-https://streak-stats.demolab.com/?user=chhavi7104&theme=radical
+## 💎 Languages
+
+[![Ruby](https://img.shields.io/badge/Code-Ruby-red?logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+
 
 ## 📂 Projects
 
