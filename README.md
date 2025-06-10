@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner wi
 - 📫 Reach me at: chhavi7104@gmail.com or connect on https://www.linkedin.com/in/chhavi-sharma-8b7b3a24b
 ## 🔧 Tech Stack
 
-- **Languages**: JavaScript, Python, TypeScript, C++, java.
+- **Languages**: JavaScript, Python, TypeScript, C++, JAVA.
 - **Frameworks/Libraries**: React, Node.js, Express, Flask
 - **Tools & Platforms**: Git, Docker, AWS, GitHub Actions, Linux
 - **Databases**: PostgreSQL, MongoDB, MySQL
