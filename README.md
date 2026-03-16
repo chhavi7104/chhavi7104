@@ -2,7 +2,6 @@
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner with a strong interest in building useful, elegant, and efficient solutions.
 
 ## 👨‍💻 About Me 
-
 - 💼 I am a student at VIT Bhopal University.
 - 🎓 I have a background in Computer Science Engineering.  
 - 🧠 I’m constantly learning about modern web development, cloud computing, and open-source technologies.
