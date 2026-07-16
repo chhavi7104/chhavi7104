@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner wi
 
 ## 🔥 GitHub Streak
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=chhavi7104&theme=radical&margin-w=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhavi7104&show_icons=true&theme=radical)
 
 ## 🔥  Resume Link
 [![Download PDF](https://img.shields.io/badge/View-PDF-red)](./Resume%20Chhavi_22BCE10560.pdf)
