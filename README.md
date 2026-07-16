@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner wi
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chhavi7104&theme=radical&cache=clear1)](https://streak-stats.demolab.com/?user=chhavi7104)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chhavi7104&theme=radical)
 
 ## 🔥  Resume Link
 [![Download PDF](https://img.shields.io/badge/View-PDF-red)](./Resume%20Chhavi_22BCE10560.pdf)
