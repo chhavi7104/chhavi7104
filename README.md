@@ -2,11 +2,10 @@
  
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner with a strong interest in building useful, elegant, and efficient solutions.
 
-
 ## 👨‍💻 About Me 
 - 💼 I am a recent graduate from VIT Bhopal University.
 - 🎓 I have a background in Computer Science Engineering.  
-- 🧠 I’m constantly learning about modern web development, cloud computing, and open-source technologies.
+- 🧠 I’m constantly learning about modern web development, cloud computing, AI and open-source technologies.
 - 🌱 Currently exploring: Devops, Blockchain and artificial intelligence.
 - 📫 Reach me at: chhavi7104@gmail.com or connect on https://www.linkedin.com/in/chhavi-sharma-8b7b3a24b
 ## 🔧 Tech Stack
