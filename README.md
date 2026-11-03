@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner wi
 - 🧠 I’m constantly learning about modern web development, cloud computing, AI and open-source technologies.
 - 🌱 Currently exploring: Devops, Blockchain and artificial intelligence.
 - 📫 Reach me at: chhavi7104@gmail.com or connect on https://www.linkedin.com/in/chhavi-sharma-8b7b3a24b
+  
 ## 🔧 Tech Stack
 
 - **Languages**: JavaScript, Python, TypeScript, C++, JAVA.
